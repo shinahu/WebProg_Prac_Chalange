@@ -1,0 +1,125 @@
+html, body {   
+background-color: rgb(182, 184, 185);
+margin: 0;
+
+
+
+
+}
+
+.name{
+    padding: 30pcs;
+    border-style: double;
+    background-color: rgb(255, 255, 254);
+    margin-left: 5px;
+    margin-right: 5px;
+}
+    
+.h1{
+font-size: 30px;
+font-style: normal;
+text-align: center;
+
+}
+
+.h2{
+
+    font-size: 15px;
+    color: rgb(80, 78, 78);
+    text-align: center;
+    margin: 5px;
+}
+
+.headings{
+
+    font-size: 30px;
+    text-align: left;
+    padding-left: 15px;
+    margin-top: 10px;
+    padding-top: 20px;
+    margin-bottom: 30px;
+
+}
+
+.name1{
+    padding: 30pcs;
+    background-color: rgb(255, 255, 254);
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+
+}
+
+.h7{
+font-size: 20px;
+padding-left: 40px;
+
+
+}
+
+.h8{
+    font-size: 20px;
+    color: rgb(224, 60, 216);
+    padding-top: 40px;
+    margin-top: 50px;
+
+
+}
+.second{
+padding-top: 15px;
+padding-left: 40px;
+padding-bottom: 20px;
+
+}
+
+.h9{
+
+font-size: 15px;
+text-align: justify;
+border-bottom: 2px;
+
+
+
+}
+
+.second1{
+    padding-top: 15px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+    border-bottom-style: line;
+    padding-right: 5px;
+    
+}
+
+.name2{
+    
+    background-color: rgb(255, 255, 254);
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    }
+
+.headings1{
+padding-left: 15px;
+font-size: 30px;
+text-align: left;
+padding-top: 20px;
+margin-top: 10px;
+padding-bottom: 30px;
+font-style: bold;
+
+}
+    
+
+.Ed{
+    padding-bottom: 20px;
+    padding-top: 30px;
+
+
+
+}
+    
+
+
